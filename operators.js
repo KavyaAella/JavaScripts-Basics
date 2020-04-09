@@ -9,3 +9,5 @@ console.log(13%3); // it gives reminder
 
 
 console.log(2**3); //it acts a 2 power 3
+
+
